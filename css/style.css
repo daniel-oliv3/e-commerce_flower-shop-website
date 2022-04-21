@@ -57,10 +57,20 @@ header .navbar a {
 }
 
 
+header .navbar a:hover {
+    color: var(--pink);
+}
 
 
+header .icons a {
+    font-size: 2.5rem;
+    color: #333;
+    margin-left: 1.5rem;
+}
 
-
+header .icons a:hover {
+    color: var(--pink);
+}
 
 
 
