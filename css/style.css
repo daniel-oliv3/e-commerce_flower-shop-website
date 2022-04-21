@@ -168,6 +168,11 @@ header .fa-bars {
         right: 0;
         background-color: #eee;
         border-top: .1rem solid rgba(0, 0, 0, .1);
+        clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+    }
+
+    header #toggler:checked ~ .navbar {
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
 
     header .navbar a {
