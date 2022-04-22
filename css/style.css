@@ -215,8 +215,15 @@ header .fa-bars {
 
 
 
-
-
+/* =======  Icons Section/Seção de Ícones ======= */
+.icons-container {
+    background: #eee;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
 
 
 
