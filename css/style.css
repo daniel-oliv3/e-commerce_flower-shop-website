@@ -154,7 +154,7 @@ header .fa-bars {
 }
 
 
-/* =======  About Section/Seção Sobre ======= */
+/* ======= About Section/Seção Sobre ======= */
 .about .row {
     display: flex;
     align-items: center;
@@ -215,7 +215,7 @@ header .fa-bars {
 
 
 
-/* =======  Icons Section/Seção de Ícones ======= */
+/* ======= Icons Section/Seção de Ícones ======= */
 .icons-container {
     background: #eee;
     display: flex;
@@ -255,7 +255,7 @@ header .fa-bars {
 
 
 
-/* =======  Products Section/Seção de Produtos ======= */
+/* ======= Products Section/Seção de Produtos ======= */
 .products .box-container{
     display: flex;
     flex-wrap: wrap;
@@ -352,7 +352,7 @@ header .fa-bars {
 
 
 
-/* =======  Review Section/Seção de Review ======= */
+/* ======= Review Section/Seção de Review ======= */
 .review .box-container {
     display: flex;
     flex-wrap: wrap;
@@ -421,7 +421,7 @@ header .fa-bars {
 
 
 
-/* =======  Contact Section/Seção de Contato ======= */
+/* ======= Contact Section/Seção de Contato ======= */
 .contact .row {
     display: flex;
     flex-wrap: wrap-reverse;
@@ -473,7 +473,7 @@ header .fa-bars {
 
 
 
-
+/* ======= Footer Section/Seção de Rodapé ======= */
 
 
 
