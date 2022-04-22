@@ -176,13 +176,42 @@ header .fa-bars {
     border: 1.5rem solid #fff;
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
+    height: 100%;
+    object-fit: cover;
 }
 
 
+.about .row .video-container h3 {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 3rem;
+    background: #fff;
+    width: 100%;
+    padding: 1rem 2rem;
+    text-align: center;
+    mix-blend-mode: screen;
+}
 
 
+.about .row .content {
+    flex: 1 1 40rem;
+}
 
 
+.about .row .content h3 {
+    font-size: 3rem;
+    color: #333;
+}
+
+
+.about .row .content p {
+    font-size: 1.5rem;
+    color: #999;
+    padding: .5rem 0;
+    padding-top: 1rem;
+    line-height: 1.5;
+}
 
 
 
