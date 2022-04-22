@@ -247,10 +247,15 @@ header .fa-bars {
 }
 
 
+.icons-container .icons span {
+    color: #555;
+    font-size: 1.3rem;
+}
 
 
 
 
+/* =======  Products Section/Seção de Produtos ======= */
 
 
 
@@ -322,6 +327,15 @@ header .fa-bars {
     
     .home .content span {
         font-size: 2.5rem;
+    }
+
+    .icons-container .icons h3 {
+        font-size: 2rem;
+    }
+    
+    
+    .icons-container .icons span {
+        font-size: 1.7rem;
     }
 }
 
